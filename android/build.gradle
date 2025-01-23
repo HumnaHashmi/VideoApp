@@ -1,3 +1,8 @@
+repositories {
+    google()
+    mavenCentral()
+}
+
 buildscript {
     ext {
         buildToolsVersion = "35.0.0"
